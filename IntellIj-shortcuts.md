@@ -36,3 +36,18 @@ Intellij provides easy integration with git. Using intellij, we can directly per
 
 Similar to that many operations can be performed.
 
+### Other shortcuts
+Below shortcuts are mentioned for mac.
+* Search everywhere - double shift 
+* Show quick fixes for errors and warnings or suggestions for code - option+ enter
+* Reformat code - option + command + L
+* Add/remove inline comment for a line or block - command + /
+* Add/remove multi line comments for a line or block - option+command+/
+* Find call hierarchy - control + option + H
+* Find implementation of an interface method - Command + option + B
+* To find the declaration of a variable - command + B
+* Find in files - command + shift + F
+* Find usage - option + F7
+* Open project window - command + 1
+* Navigate to next error, warning or suggestion - F2
+* Refactor the code - control + T
