@@ -1,12 +1,11 @@
-### Live template
-* We can check all available shortcuts for live templates using "command+j" in mac or "control+j" in windows or linux.
+=========================== Live template ================================
+We can check all available shortcuts for live templates using "command+j" in mac or "control+j" in windows or linux. Few examples are given below - 
+
 * foreach - to generate for each syntax
 * fori - create iterative loop, example -
-'''
 for(int i=0; i<n; i++)
 {
 }
-'''
 * ifn - if null statement
 * inn - if not null statement
 * iter - iterator (enhanced for loop)
